@@ -36,7 +36,7 @@ public class InsertionSort {
 
 		String[] arrayString = new String[sizeString];
 		int length = arrayString.length;
-		System.out.println("Enter the list of elements to be sorted:");
+		System.out.println("Enter the list of elements to be Sorted:");
 
 		for (int i = 0; i < length; i++) {
 			arrayString[i] = scanner.next();
